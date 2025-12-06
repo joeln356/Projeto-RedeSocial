@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+::-webkit-scrollbar {
+    height: 0px;
+    width: 0px;
+}
+
+body {
+    background-color: brown;
+}
+
+img {
+    width: 100vw;
+
+}
+
+a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    background-color: brown;
+    height: 10 0px;
+}
